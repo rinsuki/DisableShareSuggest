@@ -1,0 +1,9 @@
+Package: net.rinsuki.tweaks.disablesharesuggest
+Name: DisableShareSuggest
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: 共有メニューに Messages とか Discord とかのサジェストが出てこないようにします。
+Maintainer: rinsuki <contact.tweaks@rinsuki.net>
+Author: rinsuki <contact.tweaks@rinsuki.net>
+Section: Tweaks
