@@ -1,3 +1,5 @@
+iOS 14 では 設定→Siriと検索→共有時の提案 (「Siriからの提案」セクション内)をオフにすることで同じことができるため、このTweakの価値はなくなりました。
+
 # DisableShareSuggest
 
 共有メニューに Messages とか Discord とかのサジェストが出てこないようにします。
